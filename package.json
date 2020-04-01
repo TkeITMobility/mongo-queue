@@ -1,6 +1,6 @@
 {
   "name": "mongo-queue",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "description": "Use mongo as a persistent queue",
   "main": "lib/index.js",
   "scripts": {
